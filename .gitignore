@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 # Import cache
-.import/
+# .import/
 
 # Binaries
 bin/
 build/
 lib/
-=======
 
 # Godot-specific ignores
 .import/
@@ -16,4 +14,3 @@ export_presets.cfg
 # Mono-specific ignores
 .mono/
 data_*/
->>>>>>> 404d3d041234d016ee17c40e13ceabff4d46930c
